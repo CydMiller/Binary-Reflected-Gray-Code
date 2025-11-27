@@ -26,6 +26,12 @@ To view the output of this project, you can either:
 ## Authors
 - Cydney Miller
 
+## Sources
+
+[1] Microsoft. Github Copilot, GPT-4.1, OpenAI, 2024. Accessed 20 Nov. 2025; Used to format delayed output and assistance with small debugging tasks.
+
+[2] OpenAI. ChatGPT, version 5.1, OpenAI, 2025. Accessed 12 Nov. 2025; Used to help generate majority of code and some explanations.
+
 ## License
 This project is for educational purposes.
 

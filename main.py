@@ -13,8 +13,8 @@ import re
 # Define global color variables used throughout program
 GREEN = "\033[32m"
 RED = "\033[31m"
-BLUE = "\033[34m"
-ORANGE = "\033[93m"
+BLUE = "\033[96m"   # bright cyan
+ORANGE = "\033[93m" # shows up more yellow in terminal
 END = "\033[0m"
 
 def main():
